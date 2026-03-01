@@ -1,0 +1,10 @@
+enabled: true
+
+pullRequests:
+  reviewersRequired: 2
+  requireCodeowners: true
+
+issues:
+  autoLabel: false
+  defaultLabels:
+    - triage
